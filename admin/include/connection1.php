@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-$dbhost = "localhost";
+$dbhost = "103.138.188.58";
 $dbuser = "vesahe_user";
 $dbpassword = "vesahe@123$";
 $dbname = "vesahe_db";
